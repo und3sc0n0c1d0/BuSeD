@@ -17,9 +17,9 @@
 Script en Bash para el descubrimiento masivo de Subdominios.
 
 # Diccionario y Créditos
-<h3>dic-recon-ng.txt.-</h3> Se comparte un listado de más de 1900 posibilidades de Subdominios.
+dic-recon-ng.txt.- Se comparte un listado de más de 1900 posibilidades de Subdominios.
 
-Dicho listado ha sido extraído del Framework llamado <h3>"Recon-ng"</h3>, creado por <h3>Tim Tomes</h3> ([@LaNMaSteR53](https://twitter.com/LaNMaSteR53)).
+Dicho listado ha sido extraído del Framework llamado "Recon-ng", creado por Tim Tomes ([@LaNMaSteR53](https://twitter.com/LaNMaSteR53)).
 
 Más información del creador y el proyecto Recon-ng aquí: www.lanmaster53.com | www.recon-ng.com.
 
